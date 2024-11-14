@@ -13,6 +13,5 @@ I am a third-year computer science student at Marist College, passionate about e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=markopav88&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=markopav88&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
