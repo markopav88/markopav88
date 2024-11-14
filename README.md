@@ -1,6 +1,7 @@
 ### 💫 About Me:
 I am a third-year computer science student at Marist College, passionate about exploring the realms of coding, machine learning, and building robust applications.
-Currently Working on mastering my skills in data structures and algorithms!
+
+Currently working on mastering my skills in data structures and algorithms!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-pavic-159122231/) 
