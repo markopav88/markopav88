@@ -4,7 +4,7 @@
 
 
 ### 💫 About Me:
-I am a third-year computer science student at Marist College, passionate about exploring the realms of coding
+I am a fourth computer science student at Marist College, passionate about exploring the realms of coding
 
 Currently working on mastering my skills in data structures and algorithms!
 
