@@ -6,7 +6,14 @@
 ### 💫 About Me:
 I am a fourth year computer science student at Marist College, trying to learn everything I can about, in, and around programming!
 
-Currently working on building my own version of git from scratch in python, finishing building a mock compiler in c++ 17, and mastering my skills in data structures and algorithms! Updated 4/29/26!
+## What I'm Working On
+
+- Building a **Git-inspired version control system** from scratch in **Python**
+- Developing a **C++17 compiler** targeting **6502 assembly**
+  - Includes: lexer, parser, AST generation, semantic analysis, and object code emission
+- Strengthening my foundation in **Data Structures & Algorithms** in Python and C++
+
+_Last updated: April 29, 2026_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-pavic-159122231/) 
