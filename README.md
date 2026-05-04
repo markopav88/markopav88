@@ -13,7 +13,7 @@ Fourth year computer science student at Marist University
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission
 - Strengthening my foundation in **Data Structures & Algorithms** in Python and C++
 
-_Last updated: April 29, 2026_
+_Last updated: May 3, 2026_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-pavic-159122231/) 
