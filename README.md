@@ -4,7 +4,7 @@
 
 
 ### 💫 About Me:
-I am a fourth year computer science student at Marist College, trying to learn everything I can about, in, and around programming!
+Fourth year computer science student at Marist University
 
 ## What I'm Working On
 
