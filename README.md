@@ -3,7 +3,7 @@
 
 
 
-### 💫 About Me:
+### About Me:
 Fourth year computer science student at Marist University
 
 ## What I'm Working On
