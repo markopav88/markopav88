@@ -4,7 +4,7 @@
 
 
 ### About Me:
-New Grad computer science student from Marist University
+ Computer Science New Grad from Marist University Class of 2026
 
 ## What I'm Working On
 
