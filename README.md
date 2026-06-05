@@ -4,7 +4,7 @@
 
 
 ### About Me:
-Fourth year computer science student at Marist University
+New Grad computer science student from Marist University
 
 ## What I'm Working On
 
