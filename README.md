@@ -9,7 +9,7 @@
 ## What I'm Working On
 
 - Building a **Git-inspired version control system** from scratch in **Python**
-- Developing a **C++17 compiler** targeting **6502 machine code**
+- Developed a **C++17 compiler** targeting **6502 machine code**
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
 - Strengthening my foundation in **Data Structures & Algorithms** in Python and C++
 
