@@ -4,7 +4,7 @@
 
 
 ### About Me:
- CS New Grad - Marist University Class of 2026
+ Marist University Class of 2026 CS
 
 ## What I'm Working On
 
