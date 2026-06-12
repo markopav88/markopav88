@@ -4,7 +4,7 @@
 
 
 ### About Me:
- CS @ Marist ’26
+ SWE @ IBM | CS @ Marist ’26
 
 ## What I'm Working On
 
