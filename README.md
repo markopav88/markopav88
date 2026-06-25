@@ -6,6 +6,8 @@
 ### About Me:
  SWE @ IBM | CS @ Marist ’26
 
+ Lots of C++ :)
+
 ## What I'm Working On
 
 - Building a **Git-inspired version control system** from scratch in **Python**
