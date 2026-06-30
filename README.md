@@ -6,7 +6,7 @@
 ### About Me:
  SWE @ IBM | CS @ Marist ’26 Alum
 
- Lots of C++ :)
+ Lots of C++
 
 ## What I'm Working On
 
