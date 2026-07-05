@@ -1,9 +1,3 @@
-### Hi, I'm Marko!
-
-
-
-
-### About Me:
  SWE @ IBM | CS @ Marist ’26 Alum
 
  Lots of C++ :)
