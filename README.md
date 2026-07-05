@@ -2,7 +2,6 @@
 
  Lots of C++ :)
 
-## What I'm Working On
 
 - Building a **Git-inspired version control system** from scratch in **Python**
 - Developed a **C++17 compiler** targeting **6502 machine code**
