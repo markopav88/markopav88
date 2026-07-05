@@ -6,7 +6,7 @@
 - Building a **Git-inspired version control system** from scratch in **Python**
 - Developed a **C++17 compiler** targeting **6502 machine code**
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
-- Strengthening my foundation in **Data Structures & Algorithms** in Python and C++
+- Strengthening my foundation in **Data Structures & Algorithms** in C++
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-p-159122231/) 
