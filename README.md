@@ -1,5 +1,6 @@
 SWE @ IBM | CS @ Marist '26 Alum
- Lots of C++ :)
+
+Lots of C++ :)
 - Building a **Git-inspired version control system** from scratch in **Python**
 - Developed a **C++17 compiler** targeting **6502 machine code**
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
