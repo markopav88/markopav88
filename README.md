@@ -1,9 +1,13 @@
 SWE @ IBM | CS @ Marist '26 Alum
 
-- Building a **Git-inspired version control system** in **Python**
+Building...
+
+Side Projects...
+
 - Developed a full-stack compiler in **C++17** targeting **6502 machine code**
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
 - Strengthening my foundation in **Data Structures & Algorithms** in C++
+- A **Git-inspired version control system** in **Python**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-pavi%C4%87-159122231/) 
 # 💻 Stack:
