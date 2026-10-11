@@ -1,7 +1,5 @@
 SWE @ IBM | CS @ Marist '26 Alum
 
-Building...
-
 Side Projects...
 
 - Developed a full-stack compiler in **C++17** targeting **6502 machine code**
