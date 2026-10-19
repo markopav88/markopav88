@@ -1,6 +1,6 @@
 SWE @ IBM | CS @ Marist '26 Alum
 
-Projects...
+Projects/Fun...
 
 - Developed a full-stack compiler in **C++17** targeting **6502 machine code**
   - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
