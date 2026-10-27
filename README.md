@@ -1,11 +1,11 @@
 SWE @ IBM | CS @ Marist '26 Alum
 
-Projects/Fun...
+projects/fun...
 
-- Developed a full-stack compiler in **C++17** targeting **6502 machine code**
-  - Includes: lexer, parser, AST generation, semantic analysis, and object code emission with AST & IR Optimization
--  **Data Structures & Algorithms** practice in C++ for fun
-- A **Git-inspired version control system** in **Python**
+- full-stack compiler in **C++17** targeting **6502 machine code**
+  - includes: lexer, parser, AST generation, semantic analysis, and object code emission with ast & ir optimization
+-  **data structures & algorithms** practice in c++ for fun
+-  **git-inspired version control system** in **python**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-pavi%C4%87-159122231/) 
 
