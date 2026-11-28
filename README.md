@@ -1,4 +1,4 @@
-SWE @ IBM | CS @ Marist '26 Alum
+Building AIU Compilers @ IBM | CS @ Marist '26 Alum
 
 projects/fun...
 
